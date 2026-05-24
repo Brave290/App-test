@@ -1,0 +1,6 @@
+{
+  "name": "Brave-X Library",
+  "description": "Brave-X interactive developer template library and project manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
